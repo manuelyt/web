@@ -9,7 +9,7 @@ subi mis marcadores
 <br>
 <br>
 17/3/2019 
- 
+ <br>
 se me ocurrio hacerlo con bootstrap<br>
 valla infierno hasta que consigo que funcione<br>
  
@@ -31,5 +31,23 @@ dist                  ----> el bootstrap y el jquery<br>
 html                  ----> mis paginas<br>
 js                    ----> un js del ejemplito de bootstrap<br>
          README.md
+ 
+  
+ <br>
+<br>
+<br>
+6/10/2020 
+ <br>
+para acceder al indice :
+ 
+http://htmlpreview.github.io/?https://github.com/manuelyt/web/blog/master/html/index.html
+ 
+  <br>
+ 
+hay paginas staticas subidas :
+ 
+http://htmlpreview.github.io/?https://github.com/manuelyt/web/blog/master/html/doc/cal-lab-2019.html
+ 
+http://htmlpreview.github.io/?https://github.com/manuelyt/web/blog/master/html/doc/prog/gen-imei/imei-22.html
  
  
