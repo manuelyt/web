@@ -60,7 +60,7 @@ http://htmlpreview.github.io/?https://github.com/manuelyt/web/blog/master/html/d
 cuando se mira el debug en el chrome es norma que salgan 2 warnings y 2 errores  :
 <br>
 <br>
-
+```
 Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.
 
 Refused to apply style from 'https://raw.githubusercontent.com/manuelyt/web/master/dist/css/bootstrap.min.css' because its MIME type ('text/plain') is not a supported stylesheet MIME type, and strict MIME checking is enabled.
@@ -68,6 +68,7 @@ Refused to apply style from 'https://raw.githubusercontent.com/manuelyt/web/mast
 Refused to apply style from 'https://raw.githubusercontent.com/manuelyt/web/master/html/pers/css/blog.css' because its MIME type ('text/plain') is not a supported stylesheet MIME type, and strict MIME checking is enabled.
 
 DevTools failed to load source map: Could not load content for http://htmlpreview.github.io/bootstrap.min.css.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+```
 <br>
 <br>
 
