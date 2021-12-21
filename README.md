@@ -1,6 +1,7 @@
 
  
-11/3/2019 
+
+## 11/3/2019 
  
 subi mis marcadores
  
@@ -8,7 +9,8 @@ subi mis marcadores
  <br>
 <br>
 <br>
-17/3/2019 
+
+## 17/3/2019 
  <br>
 se me ocurrio hacerlo con bootstrap<br>
 valla infierno hasta que consigo que funcione<br>
@@ -36,7 +38,8 @@ js                    ----> un js del ejemplito de bootstrap<br>
 <br>
 <br>
 <br>
-6/10/2020 
+
+## 6/10/2020 
 <br>
 para acceder al indice :
  
