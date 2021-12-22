@@ -1,4 +1,8 @@
 
+
+paginita web para ir poniendo aqui mis cosas en la nube
+
+como la hice con bootstrap, se ve de puta madre en el ordenador, y en el movil
  
 
 ## 11/3/2019 
