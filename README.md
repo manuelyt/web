@@ -85,6 +85,8 @@ ademas, tener en cuenta que aunque se modifique ( haciendo commit ) no se refres
 es un poco coñazo trabajar asi
 <br>
 lo que hay que hacer es ir haciendo commit s y comprobar en el movil, ahi a veces si se refresca 
+<br>
+es como si el servidor web del git periodicamente dejase de actualizarse ( normalmente esta en modo live, todo comit se ve inmediatamente en la web )
 
 <br>
 <br>
