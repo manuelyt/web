@@ -1,10 +1,8 @@
 
 <br>
-
 Paginita web para ir poniendo aqui mis cosas en la nube.
-
+<br>
 Como la hice con bootstrap, se ve de puta madre en el ordenador, y en el movil.
- 
 <br>
 <br>
 <br>
@@ -55,15 +53,16 @@ http://htmlpreview.github.io/?https://github.com/manuelyt/web/blog/master/html/i
  
   <br>
  
-hay paginas staticas subidas :
+hay paginas estaticas subidas :
  
 http://htmlpreview.github.io/?https://github.com/manuelyt/web/blog/master/html/doc/cal-lab-2019.html
  
 http://htmlpreview.github.io/?https://github.com/manuelyt/web/blog/master/html/doc/prog/gen-imei/imei-22.html
  
+http://htmlpreview.github.io/?https://github.com/manuelyt/web/blog/master/html/doc/prog/sql/join-wikipedia.html
+ 
  
 <br>
-
 ojito con estos enlaces
 <br>
 si se pinchan aqui directamente no funciona
@@ -71,6 +70,8 @@ si se pinchan aqui directamente no funciona
 si se copia el enlace y se pone en el navegador si funcionan
 <br>
 ( creo que es porque la pagina es https, y los enlaces son http )
+<br>
+
 
 <br>
 <br>
@@ -79,10 +80,18 @@ si se copia el enlace y se pone en el navegador si funcionan
 ## 21/12/2021 
 
 <br>
+ademas, tener en cuenta que aunque se modifique ( haciendo commit ) no se refresca ( no siempre, a veces si, a veces no, a ratos )
+<br>
+es un poco coñazo trabajar asi
+<br>
+lo que hay que hacer es ir haciendo commit s y comprobar en el movil, ahi a veces si se refresca 
 
+<br>
+<br>
 cuando se mira el debug en el chrome es normal que salgan 2 warnings y 2 errores  :
 <br>
 <br>
+
 ```
 Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.
 
@@ -92,12 +101,8 @@ Refused to apply style from 'https://raw.githubusercontent.com/manuelyt/web/mast
 
 DevTools failed to load source map: Could not load content for http://htmlpreview.github.io/bootstrap.min.css.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
 ```
-<br>
 
+<br>
 esos errores y warnings de momento los estoy ignorando, cuando salen otros errores conviene echarles un vistazo
-
 <br>
 
-ademas, tener en cuenta que aunque se modifique ( haciendo commit ) no se refresca ( no siempre, a veces si, a veces no )
-es un poco coñazo trabajar asi
-lo que hay que hacer es ir haciendo commit s y comprobar en el movil, ahi si se refresca inmediatamente
