@@ -63,6 +63,16 @@ http://htmlpreview.github.io/?https://github.com/manuelyt/web/blog/master/html/d
  
  
 <br>
+
+ojito con estos enlaces
+<br>
+si se pinchan aqui directamente no funciona
+<br>
+si se copia el enlace y se pone en el navegador si funcionan
+<br>
+( creo que es porque la pagina es https, y los enlaces son http )
+
+<br>
 <br>
 <br>
 
