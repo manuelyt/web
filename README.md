@@ -77,3 +77,9 @@ DevTools failed to load source map: Could not load content for http://htmlprevie
 <br>
 
 esos errores y warnings de momento los estoy ignorando, cuando salen otros errores conviene echarles un vistazo
+
+<br>
+
+ademas, tener en cuenta que aunque se modifique ( haciendo commit ) no se refresca
+es un poco coñazo trabajar asi
+
