@@ -75,6 +75,5 @@ Refused to apply style from 'https://raw.githubusercontent.com/manuelyt/web/mast
 DevTools failed to load source map: Could not load content for http://htmlpreview.github.io/bootstrap.min.css.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
 ```
 <br>
-<br>
 
-esos de momento los estoy ignorando, cuando salen otros errores conviene echarles un vistazo
+esos errores y warnings de momento los estoy ignorando, cuando salen otros errores conviene echarles un vistazo
