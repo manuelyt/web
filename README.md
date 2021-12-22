@@ -1,16 +1,20 @@
 
+<br>
 
-paginita web para ir poniendo aqui mis cosas en la nube
+Paginita web para ir poniendo aqui mis cosas en la nube.
 
-como la hice con bootstrap, se ve de puta madre en el ordenador, y en el movil
+Como la hice con bootstrap, se ve de puta madre en el ordenador, y en el movil.
  
+<br>
+<br>
+<br>
 
 ## 11/3/2019 
  
 subi mis marcadores
  
   
- <br>
+<br>
 <br>
 <br>
 
@@ -66,7 +70,7 @@ http://htmlpreview.github.io/?https://github.com/manuelyt/web/blog/master/html/d
 
 <br>
 
-cuando se mira el debug en el chrome es norma que salgan 2 warnings y 2 errores  :
+cuando se mira el debug en el chrome es normal que salgan 2 warnings y 2 errores  :
 <br>
 <br>
 ```
@@ -84,6 +88,6 @@ esos errores y warnings de momento los estoy ignorando, cuando salen otros error
 
 <br>
 
-ademas, tener en cuenta que aunque se modifique ( haciendo commit ) no se refresca
+ademas, tener en cuenta que aunque se modifique ( haciendo commit ) no se refresca ( no siempre, a veces si, a veces no )
 es un poco coñazo trabajar asi
 
