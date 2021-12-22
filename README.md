@@ -90,4 +90,4 @@ esos errores y warnings de momento los estoy ignorando, cuando salen otros error
 
 ademas, tener en cuenta que aunque se modifique ( haciendo commit ) no se refresca ( no siempre, a veces si, a veces no )
 es un poco coñazo trabajar asi
-
+lo que hay que hacer es ir haciendo commit s y comprobar en el movil, ahi si se refresca inmediatamente
